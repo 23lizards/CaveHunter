@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic,300italic,300&subset=latin,cyrillic,cyrillic-ext);
+@import "reset";
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.870588);;
+}
+
+body, html, #root {
+  height: 100%;
+}
