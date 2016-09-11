@@ -21,7 +21,7 @@ const common = {
     },
 
     resolve: {
-        extensions: ['', '.ts', '.js', '.json', '.scss']
+        extensions: ['', '.ts', '.js']
     },
 
     module: {
